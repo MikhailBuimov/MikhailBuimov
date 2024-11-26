@@ -1,9 +1,9 @@
 <div id="badges" align='center'>
   <a href="https://t.me/mikhailbuymov">
-    <img src="https://img.icons8.com/?size=50&id=oWiuH0jFiU0R&format=png&color=000000" alt="Telegram Badge"/>
+    <img src="https://img.icons8.com/?size=70&id=oWiuH0jFiU0R&format=png&color=000000" alt="Telegram Badge"/>
   </a>
   <a href="https://vk.com/mbuymov">
-    <img src="https://img.icons8.com/?size=50&id=114452&format=png&color=000000" alt="Vk Badge"/>
+    <img src="https://img.icons8.com/?size=70&id=114452&format=png&color=000000" alt="Vk Badge"/>
   </a>
 </div>
 
@@ -12,7 +12,7 @@
 ---
 
 
-**<p align="center"> Metalworking engineer :man_mechanic: learning ML and programming :man_technologist:</p>**
+# <p align="center"> Metalworking engineer :man_mechanic: learning ML and programming :man_technologist:</p>
 
 
 <!--
