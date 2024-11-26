@@ -12,7 +12,7 @@
 ---
 
 
- <p align="center"> Metalworking engineer :man_mechanic: learning ML and programming :man_technologist:</p>
+**<p align="center"> Metalworking engineer :man_mechanic: learning ML and programming :man_technologist:</p>**
 
 
 <!--
