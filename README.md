@@ -11,10 +11,9 @@
 
 ---
 
-
 # <p align="center"> Metalworking engineer :man_mechanic: learning ML and programming :man_technologist:</p>
 
-
+---
 <!--
 **MikhailBuimov/MikhailBuimov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
