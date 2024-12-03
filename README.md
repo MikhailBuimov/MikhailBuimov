@@ -1,19 +1,45 @@
 <div id="badges" align='center'>
-  <a href="https://t.me/mikhailbuymov">
-    <img src="https://img.icons8.com/?size=70&id=oWiuH0jFiU0R&format=png&color=000000" alt="Telegram Badge"/>
-  </a>
-  <a href="https://vk.com/mbuymov">
-    <img src="https://img.icons8.com/?size=70&id=114452&format=png&color=000000" alt="Vk Badge"/>
-  </a>
+<a href="https://t.me/mikhailbuymov">
+  <img src="https://img.icons8.com/?size=70&id=oWiuH0jFiU0R&format=png&color=000000" alt="Telegram Badge"/>
+</a>
+<a href="https://vk.com/mbuymov">
+  <img src='https://img.icons8.com/?size=70&id=114452&format=png&color=000000' alt="Vk Badge"/>
+</a>
 </div>
 
+<div id="badges" align="center">
+  <img src="https://komarev.com/ghpvc/?username=MikhailBuimov"/>
+</div>
+
+---
+
+<p align="center"> Metalworking engineer :man_mechanic: learning ML and programming :man_technologist:</p>
+
+---
+
+Pet-projects
+
+---
+
+Cources
+
+- [Аналитик данных от ИТМО](https://dc.itmo.ru/data-analyst/)
+
+- python
   
+  [Поколение python: для начинающих](https://stepik.org/cert/1252059)
 
----
+  [Поколение python: для продвинутых](https://stepik.org/cert/1477869)
 
-# <p align="center"> Metalworking engineer :man_mechanic: learning ML and programming :man_technologist:</p>
+  [Поколение python: для профи](https://stepik.org/cert/1959468)
 
----
+  [Поколение python: ООП](https://stepik.org/cert/2287933)
+
+- sql
+
+  [Интерактивный тренажер по sql](https://stepik.org/cert/2449259)
+
+
 <!--
 **MikhailBuimov/MikhailBuimov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
