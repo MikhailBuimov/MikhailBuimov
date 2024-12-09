@@ -1,8 +1,8 @@
 <div id="badges" align='center'>
-<a href="https://t.me/mikhailbuymov">
+<a href="#https://t.me/mikhailbuymov" style="text-decoration:none;">
   <img src="https://img.icons8.com/?size=70&id=oWiuH0jFiU0R&format=png&color=000000" alt="Telegram Badge"/>
 </a>
-<a href="https://vk.com/mbuymov">
+<a href="#https://vk.com/mbuymov" style="text-decoration:none;">
   <img src='https://img.icons8.com/?size=70&id=114452&format=png&color=000000' alt="Vk Badge"/>
 </a>
 </div>
